@@ -27,7 +27,7 @@ A collection of lightweight Python scripts that turn raw **RMSD / MM‑GBSA / RM
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your‑username>/md‑analysis‑plots.git
+git clone https://github.com/DurdagiLab/MD_Insight.git
 cd md‑analysis‑plots
 
 # 2. (Recommended) create a clean environment
